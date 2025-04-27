@@ -1,0 +1,42 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Banner */
+header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px 0;
+}
+
+/* Introduction area */
+#intro {
+    margin: 20px;
+}
+
+/* Login Form */
+#login {
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+#login input, #login select, #login button {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #eee;
+    padding: 10px 0;
+    margin-top: 20px;
+}
